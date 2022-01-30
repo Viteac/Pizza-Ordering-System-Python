@@ -9,3 +9,7 @@
                                                              |___/                       
 
 
+Back end Ordering system for Pizzerias
+
+This is very back end version only, nothing fancy if you wish te get something fancy for your business do not hesitate to contact me and I'll be be happy to help You..
+Wish you all the best ;-)
